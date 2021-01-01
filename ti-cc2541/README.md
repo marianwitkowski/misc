@@ -3,21 +3,23 @@
 Obsługa modułu TI SenorTag CC2541 (rok produkcji 2013) z modułem BT LTE za pomocą skryptu Python działającej na RaspberryPi.
 
 <p>Moduł zawiera:
-- Contactless IR temperature sensor (Texas Instruments TMP006)
+<ul>
+<li>Contactless IR temperature sensor (Texas Instruments TMP006)
   
-- Humidity Sensor (Sensirion SHT21)
+<li>Humidity Sensor (Sensirion SHT21)
 
-- Gyroscope (Invensense IMU-3000)
+<li>Gyroscope (Invensense IMU-3000)
 
-- Accelerometer (Kionix KXTJ9)
+<li>Accelerometer (Kionix KXTJ9)
 
-- Magnetometer (Freescale MAG3110)
+<li>Magnetometer (Freescale MAG3110)
 
-- Barometric pressure sensor (Epcos T5400)
+<li>Barometric pressure sensor (Epcos T5400)
 
-- On-chip temperature sensor (Built into the CC2541)
+<li>On-chip temperature sensor (Built into the CC2541)
 
-- Battery/voltage sensor (Built into the CC2541)
+<li>Battery/voltage sensor (Built into the CC2541)
+</ul>
 
 </p>
 
