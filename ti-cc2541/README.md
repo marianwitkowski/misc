@@ -2,7 +2,10 @@
 
 Obsługa modułu TI SenorTag CC2541 (rok produkcji 2013) z modułem BT LTE za pomocą skryptu Python działającej na RaspberryPi.<br/>
 
-<a href="swru324b.pdf" target="_new">Dokumentacja modułu (PDF)</a><br/>
+<ul>
+<li><a href="https://github.com/marianwitkowski/misc/blob/master/ti-cc2541/sensor-test.py">Przykładowy kod (Python 3.7)</a>
+<li><a href="swru324b.pdf" target="_new">Dokumentacja modułu (PDF)</a>
+</ul>
 
 <p>Moduł zawiera:
 <ul>
